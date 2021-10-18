@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <ListBox Name="ListMessages" Margin="400,0,160,0"/>
     </Grid>
 </Window>
